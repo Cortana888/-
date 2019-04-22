@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515254802 source:d:\c++\数据结构课设-文本编辑器\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<mmsystem.h>
+
